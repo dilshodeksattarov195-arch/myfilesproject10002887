@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercerify",
+        "uuid": 19106166,
+        "checksum": "6x21nu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
